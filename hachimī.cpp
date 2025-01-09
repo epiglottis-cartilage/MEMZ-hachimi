@@ -21,8 +21,6 @@
 
 #pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
 
-int next;
-
 const wchar_t msg[] = L"YOUR COMPUTER HAS BEEN ❤️ BY THE hachimī.\r\n\r\nYour computer may able boot up again,\r\nso use it as long as you can!\r\n\r\n:D\r\n\r\nTrying to kill hachimī will cause your system to be\r\ncrashed instantly, so don't try it :D";
 
 const char *sites[] = {
