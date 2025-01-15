@@ -300,7 +300,7 @@ HCRYPTPROV prov;
 
 int scrw, scrh;
 
-void main()
+int main()
 {
 	scrw = GetSystemMetrics(SM_CXSCREEN);
 	scrh = GetSystemMetrics(SM_CYSCREEN);
